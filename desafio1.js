@@ -20,6 +20,4 @@ if (XP <= 1000) {
     rank = "Radiante"
 }
 
-
-
 console.log("O Herói de nome " + playername + " está no nível de " + rank)
